@@ -1,0 +1,27 @@
+.home{
+    background-color: cadetblue;
+    width: 100%;
+    height: 328px;
+    padding-top: 40px;
+    padding: 30px;
+}
+.inside{
+    background-color: #ffff;
+    width: 80%;
+    height: 70%;
+    margin-left: 40px;
+    padding: 20px;
+    margin-top: 30px;
+
+}
+.about{
+    width: 100%;
+    height: 430px;
+    background-color: cadetblue;
+    padding: 30px;
+}
+.f1{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+}
